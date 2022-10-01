@@ -87,10 +87,9 @@ body {
 
 .Characters-item h2 {
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   padding: 5px 10px;
-  display: flex;
-  justify-content: space-between;
+  text-align: center;
 }
 
 .Characters-item a {
